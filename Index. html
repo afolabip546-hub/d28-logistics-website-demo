@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta
+    name="description"
+    content="D28 Logistics — a modern logistics and delivery website concept."
+  >
+
+  <title>D28 Logistics | Delivery & Logistics</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+
+    <a href="#home" class="logo">
+      D28<span>Logistics</span>
+    </a>
+
+    <button
+      class="menu-btn"
+      aria-label="Open menu"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+
+    <nav class="nav">
+
+      <a href="#home">Home</a>
+
+      <a href="#services">Services</a>
+
+      <a href="#how-it-works">How It Works</a>
+
+      <a href="#about">Why D28</a>
+
+      <a href="#contact">Contact</a>
+
+    </nav>
+
+  </header>
+
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+
+  <div class="hero-content">
+
+    <div class="hero-badge">
+      <span></span>
+      LOGISTICS & DELIVERY
+    </div>
+
+    <h1>
+      Reliable logistics.
+      <span>Delivered with purpose.</span>
+    </h1>
+
+    <p class="hero-text">
+      D28 Logistics helps individuals and businesses
+      move packages with a simple, dependable
+      delivery experience.
+    </p>
+
+    <div class="hero-buttons">
+
+      <a href="#contact" class="btn btn-primary">
+        Request a Delivery
+        <span>→</span>
+      </a>
+
+      <a href="#services" class="btn btn-secondary">
+        Explore Services
+      </a>
+
+    </div>
+
+    <div class="hero-note">
+      <span>✓</span>
+      Simple. Reliable. Convenient.
+    </div>
+
+  </div>
+
+  <div class="hero-visual">
+
+    <div class="hero-image">
+      <img
+        src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80"
+        alt="Logistics delivery truck"
+      >
+    </div>
+
+    <div class="hero-card">
+      <span>DELIVERY</span>
+      <strong>Moving what matters.</strong>
+    </div>
+
+  </div>
+
+</section>
+
+    <!-- =========================
+     SERVICES
+========================= -->
+
+<section class="section services" id="services">
+
+  <div class="section-heading">
+
+    <p class="eyebrow">
+      WHAT WE DO
+    </p>
+
+    <h2>
+      Logistics built around
+      your needs.
+    </h2>
+
+    <p>
+      Practical delivery and logistics solutions
+      for individuals and businesses.
+    </p>
+
+  </div>
+
+
+  <div class="services-grid">
+
+    <!-- Service 01 -->
+
+    <article class="service-card">
+
+      <div class="service-top">
+
+        <span class="service-number">
+          01
+        </span>
+
+        <span class="service-arrow">
+          ↗
+        </span>
+
+      </div>
+
+      <div class="service-icon">
+        🚚
+      </div>
+
+      <h3>
+        Delivery Services
+      </h3>
+
+      <p>
+        Move packages from pickup to destination
+        with a straightforward delivery experience.
+      </p>
+
+      <a href="#contact" class="service-link">
+        Request a Delivery →
+      </a>
+
+    </article>
+
+
+    <!-- Service 02 -->
+
+    <article class="service-card">
+
+      <div class="service-top">
+
+        <span class="service-number">
+          02
+        </span>
+
+        <span class="service-arrow">
+          ↗
+        </span>
+
+      </div>
+
+      <div class="service-icon">
+        📦
+      </div>
+
+      <h3>
+        Logistics Solutions
+      </h3>
+
+      <p>
+        Practical transportation and logistics support
+        for individuals and businesses.
+      </p>
+
+      <a href="#contact" class="service-link">
+        Make an Enquiry →
+      </a>
+
+    </article>
+
+
+    <!-- Service 03 -->
+
+    <article class="service-card">
+
+      <div class="service-top">
+
+        <span class="service-number">
+          03
+        </span>
+
+        <span class="service-arrow">
+          ↗
+        </span>
+
+      </div>
+
+      <div class="service-icon">
+        🏢
+      </div>
+
+      <h3>
+        Distribution & Fulfilment
+      </h3>
+
+      <p>
+        Support for moving and distributing goods
+        as your business needs them.
+      </p>
+
+      <a href="#contact" class="service-link">
+        Talk to Us →
+      </a>
+
+    </article>
+
+  </div>
+
+</section>
+<!-- =========================
+     HOW IT WORKS
+========================= -->
+
+<section class="section how-it-works" id="how-it-works">
+
+  <div class="section-heading">
+
+    <p class="eyebrow">
+      HOW IT WORKS
+    </p>
+
+    <h2>
+      A simpler way to move
+      what matters.
+    </h2>
+
+    <p>
+      From your first request to final delivery,
+      keep the process straightforward.
+    </p>
+
+  </div>
+
+
+  <div class="steps">
+
+    <!-- Step 01 -->
+
+    <article class="step">
+
+      <div class="step-top">
+
+        <span class="step-number">
+          01
+        </span>
+
+        <span class="step-line"></span>
+
+      </div>
+
+      <h3>
+        Request
+      </h3>
+
+      <p>
+        Tell D28 what you need delivered
+        and share the necessary details.
+      </p>
+
+    </article>
+
+
+    <!-- Step 02 -->
+
+    <article class="step">
+
+      <div class="step-top">
+
+        <span class="step-number">
+          02
+        </span>
+
+        <span class="step-line"></span>
+
+      </div>
+
+      <h3>
+        Pickup
+      </h3>
+
+      <p>
+        Arrange for your package to be
+        collected from the agreed location.
+      </p>
+
+    </article>
+
+
+    <!-- Step 03 -->
+
+    <article class="step">
+
+      <div class="step-top">
+
+        <span class="step-number">
+          03
+        </span>
+
+        <span class="step-line"></span>
+
+      </div>
+
+      <h3>
+        Transit
+      </h3>
+
+      <p>
+        Your package is moved toward
+        its intended destination.
+      </p>
+
+    </article>
+
+
+    <!-- Step 04 -->
+
+    <article class="step">
+
+      <div class="step-top">
+
+        <span class="step-number">
+          04
+        </span>
+
+        <span class="step-line"></span>
+
+      </div>
+
+      <h3>
+        Delivery
+      </h3>
+
+      <p>
+        Your package reaches its intended
+        destination.
+      </p>
+
+    </article>
+
+  </div>
+
+</section>
+<!-- =========================
+     WHY D28
+========================= -->
+
+<section class="section about" id="about">
+
+  <div class="about-image">
+
+    <img
+      src="https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=1200&q=80"
+      alt="Logistics packages ready for delivery"
+    >
+
+  </div>
+
+
+  <div class="about-content">
+
+    <p class="eyebrow">
+      WHY D28
+    </p>
+
+    <h2>
+      Built around
+      reliable delivery.
+    </h2>
+
+    <p>
+      Whether you're sending a package or managing
+      business deliveries, D28 is positioned to make
+      logistics simpler.
+    </p>
+
+
+    <div class="benefits">
+
+      <!-- Benefit 01 -->
+
+      <article class="benefit">
+
+        <span class="benefit-number">
+          01
+        </span>
+
+        <div>
+
+          <h3>
+            Reliable Service
+          </h3>
+
+          <p>
+            A straightforward approach to moving
+            packages and supporting your delivery needs.
+          </p>
+
+        </div>
+
+      </article>
+
+
+      <!-- Benefit 02 -->
+
+      <article class="benefit">
+
+        <span class="benefit-number">
+          02
+        </span>
+
+        <div>
+
+          <h3>
+            Practical Solutions
+          </h3>
+
+          <p>
+            Logistics support designed around the
+            needs of individuals and businesses.
+          </p>
+
+        </div>
+
+      </article>
+
+
+      <!-- Benefit 03 -->
+
+      <article class="benefit">
+
+        <span class="benefit-number">
+          03
+        </span>
+
+        <div>
+
+          <h3>
+            Customer Focused
+          </h3>
+
+          <p>
+            Clear communication and a delivery
+            experience built around the customer.
+          </p>
+
+        </div>
+
+      </article>
+
+    </div>
+
+  </div>
+
+</section>
+<!-- =========================
+     DELIVERY COVERAGE
+========================= -->
+
+<section class="section coverage" id="coverage">
+
+  <div class="coverage-content">
+
+    <p class="eyebrow">
+      DELIVERY COVERAGE
+    </p>
+
+    <h2>
+      Moving packages closer
+      to where they matter.
+    </h2>
+
+    <p>
+      Tell us where your package needs to go
+      and we'll help you understand the available
+      delivery options.
+    </p>
+
+    <a href="#contact" class="btn coverage-btn">
+      Make an Enquiry →
+    </a>
+
+  </div>
+
+
+  <div class="coverage-panel">
+
+    <div class="coverage-circle">
+      <span>D28</span>
+    </div>
+
+    <div class="coverage-info">
+
+      <span>
+        SERVICE AREA
+      </span>
+
+      <strong>
+        Tell us your location
+      </strong>
+
+      <p>
+        We'll help you explore the right
+        delivery option.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+    <<!-- =========================
+     CONTACT
+========================= -->
+
+<section class="section contact" id="contact">
+
+  <div class="contact-intro">
+
+    <p class="eyebrow">
+      LET'S TALK
+    </p>
+
+    <h2>
+      Let's move
+      something.
+    </h2>
+
+    <p>
+      Have a delivery request or want to learn more
+      about the available logistics options?
+      Get in touch with D28.
+    </p>
+
+
+    <div class="contact-details">
+
+      <div class="contact-detail">
+
+        <span>
+          PHONE
+        </span>
+
+        <strong>
+          Contact D28
+        </strong>
+
+      </div>
+
+
+      <div class="contact-detail">
+
+        <span>
+          EMAIL
+        </span>
+
+        <strong>
+          Send an enquiry
+        </strong>
+
+      </div>
+
+
+      <div class="contact-detail">
+
+        <span>
+          LOCATION
+        </span>
+
+        <strong>
+          Abuja, Nigeria
+        </strong>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- Booking / Enquiry Form -->
+
+  <div class="booking-form">
+
+    <div class="form-heading">
+
+      <h3>
+        Request a Delivery
+      </h3>
+
+      <p>
+        Tell us a little about what you need.
+      </p>
+
+    </div>
+
+
+    <form>
+
+      <div class="form-group">
+
+        <label for="name">
+          Name
+        </label>
+
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Your name"
+        >
+
+      </div>
+
+
+      <div class="form-group">
+
+        <label for="phone">
+          Phone
+        </label>
+
+        <input
+          type="tel"
+          id="phone"
+          name="phone"
+          placeholder="Your phone number"
+        >
+
+      </div>
+
+
+      <div class="form-group">
+
+        <label for="message">
+          Pickup / Delivery Details
+        </label>
+
+        <textarea
+          id="message"
+          name="message"
+          rows="5"
+          placeholder="Tell us what you need delivered..."
+        ></textarea>
+
+      </div>
+
+
+      <button
+        type="submit"
+        class="form-submit"
+      >
+        Send Request →
+      </button>
+
+    </form>
+
+  </div>
+
+</section>
+  </main>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+
+    <div class="footer-logo">
+      D28 Logistics
+    </div>
+
+    <p>
+      Reliable logistics. Convenient delivery.
+    </p>
+
+    <div class="footer-links">
+
+      <a href="#home">
+        Home
+      </a>
+
+      <a href="#services">
+        Services
+      </a>
+
+      <a href="#about">
+        Why D28
+      </a>
+
+      <a href="#contact">
+        Contact
+      </a>
+
+    </div>
+
+    <p class="copyright">
+      © 2026 D28 Logistics.
+      Website concept by Afolabi.
+    </p>
+
+  </footer>
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
